@@ -1,0 +1,9 @@
+<resources>
+    <!-- A orde importa: a posición de cada provincia é a da súa lista en Roteiro.kt -->
+    <string-array name="provincias">
+        <item>A Coruña</item>
+        <item>Lugo</item>
+        <item>Ourense</item>
+        <item>Pontevedra</item>
+    </string-array>
+</resources>
